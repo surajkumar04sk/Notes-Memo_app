@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576764088428",
+    "project_id": "notesapp-ac143",
+    "storage_bucket": "notesapp-ac143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576764088428:android:d091460b48bf3fe4440849",
+        "android_client_info": {
+          "package_name": "stechtricker.notes.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576764088428-7elije396h7qkv5pn3tsfu6qj4t83896.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_NZxg9U_zToj1_D_s5Rotwi3-UV4OoyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576764088428-7elije396h7qkv5pn3tsfu6qj4t83896.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
